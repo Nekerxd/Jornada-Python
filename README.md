@@ -7,10 +7,10 @@
 
 📌Tópicos a serem estudados:
 
-- [ ] Introdução à jornada
-- [ ] Primeiros passos no Python.  
-- [ ] Variáveis e tipos de dados.  
-- [ ] Strings.  
+- ✅ Introdução à jornada
+- ✅ Primeiros passos no Python.  
+- ✅ Variáveis e tipos de dados.  
+- ✅ Strings.  
 - [ ] Tipos numéricos.  
 - [ ] Entrada de dados e usuários.  
 - [ ] Estruturas de controle.
