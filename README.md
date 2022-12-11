@@ -12,8 +12,8 @@
 - ✅ Variáveis e tipos de dados.  
 - ✅ Strings.  
 - ✅ Tipos numéricos.  
-- [ ] Entrada de dados e usuários.  
-- [ ] Estruturas de controle.
+- ✅ Entrada de dados e usuários.  
+- ✅ Estruturas de controle.
 - [ ] Listas.
 - [ ] Dicionários.
 - [ ] Sets e Tuplas.
