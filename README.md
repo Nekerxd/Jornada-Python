@@ -11,7 +11,7 @@
 - ✅ Primeiros passos no Python.  
 - ✅ Variáveis e tipos de dados.  
 - ✅ Strings.  
-- [ ] Tipos numéricos.  
+- ✅ Tipos numéricos.  
 - [ ] Entrada de dados e usuários.  
 - [ ] Estruturas de controle.
 - [ ] Listas.
