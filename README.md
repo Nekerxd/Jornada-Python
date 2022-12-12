@@ -14,7 +14,7 @@
 - ✅ Tipos numéricos.  
 - ✅ Entrada de dados e usuários.  
 - ✅ Estruturas de controle.
-- [ ] Listas.
+- ✅ Listas.
 - [ ] Dicionários.
 - [ ] Sets e Tuplas.
 - [ ] Funções.
