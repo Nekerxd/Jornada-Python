@@ -15,7 +15,7 @@
 - ✅ Entrada de dados e usuários.  
 - ✅ Estruturas de controle.
 - ✅ Listas.
-- [ ] Dicionários.
+- ✅ Dicionários.
 - [ ] Sets e Tuplas.
 - [ ] Funções.
 - [ ] Tratamento de erros.
