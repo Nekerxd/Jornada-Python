@@ -1,4 +1,11 @@
-# Write a Python program to display the first and last colors from the following list.
-color_list = ["Red","Green","White" ,"Black"]
+# Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn
 
-print(f"A primeira cor é {color_list[0]} e a última é {color_list[-1]}")
+n = int(input("Digite um número: "))
+i = 1
+n1 = 0
+
+while (i < 112):
+    n1 += n * i
+    i = i * 10 + 1
+    
+print(n1)

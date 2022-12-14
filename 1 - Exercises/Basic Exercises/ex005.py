@@ -4,8 +4,10 @@ nome = input("Digite seu nome: ")
 sobrenome = input("Digite seu sobrenome: ")
 
 nome_completo = nome.strip().capitalize() + " " + sobrenome.strip().capitalize()
-x = ''
+# x = ''
 
-for i in range(0, len(nome_completo)+1, 1):
-    x += nome_completo[-i]
-print(x)
+# for i in range(0, len(nome_completo)+1, 1):
+#     x += nome_completo[-i]
+# print(x)
+
+print(nome_completo[::-1])
