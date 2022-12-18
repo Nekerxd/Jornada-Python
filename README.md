@@ -17,7 +17,7 @@
 - ✅ Listas.
 - ✅ Dicionários.
 - ✅ Sets e Tuplas.
-- [ ] Funções.
+- ✅ Funções.
 - [ ] Tratamento de erros.
 - [ ] Manipulação de arquivos.
 - [ ] Módulos Python e o PIP.
