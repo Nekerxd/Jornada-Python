@@ -16,7 +16,7 @@
 - ✅ Estruturas de controle.
 - ✅ Listas.
 - ✅ Dicionários.
-- [ ] Sets e Tuplas.
+- ✅ Sets e Tuplas.
 - [ ] Funções.
 - [ ] Tratamento de erros.
 - [ ] Manipulação de arquivos.
