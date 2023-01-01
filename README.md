@@ -18,7 +18,7 @@
 - ✅ Dicionários.
 - ✅ Sets e Tuplas.
 - ✅ Funções.
-- [ ] Tratamento de erros.
+- ✅ Tratamento de erros.
 - [ ] Manipulação de arquivos.
 - [ ] Módulos Python e o PIP.
 - [ ] Ambientes virtuais com VirtualEnv
