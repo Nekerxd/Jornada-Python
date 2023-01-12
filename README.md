@@ -19,7 +19,7 @@
 - ✅ Sets e Tuplas.
 - ✅ Funções.
 - ✅ Tratamento de erros.
-- [ ] Manipulação de arquivos.
+- ✅ Manipulação de arquivos.
 - [ ] Módulos Python e o PIP.
 - [ ] Ambientes virtuais com VirtualEnv
 - [ ] Programação Orientada a Objetos - POO.
