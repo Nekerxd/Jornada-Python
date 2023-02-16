@@ -22,7 +22,7 @@
 - ✅ Manipulação de arquivos.
 - ✅ Módulos Python e o PIP.
 - ✅ Ambientes virtuais com VirtualEnv
-- [ ] Programação Orientada a Objetos - POO.
+- ✅ Programação Orientada a Objetos - POO.
 - [ ] Map, Filter e as funções Lambda.
 - [ ] List, Dict e Set comprehensions.
 - [ ] Iteradores e Geradores.
