@@ -25,7 +25,7 @@
 - ✅ Programação Orientada a Objetos - POO.
 - ✅ Map, Filter e as funções Lambda.
 - ✅ List, Dict e Set comprehensions.
-- [ ] Iteradores e Geradores.
+- ✅ Iteradores e Geradores.
 - [ ] Correspondência de padrões.
 - [ ] Projeto 1 - Webscraping de dados financeiros.
 - [ ] Projeto 2 - Manipulação de arquivos Excel.
