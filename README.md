@@ -24,7 +24,7 @@
 - ✅ Ambientes virtuais com VirtualEnv
 - ✅ Programação Orientada a Objetos - POO.
 - ✅ Map, Filter e as funções Lambda.
-- [ ] List, Dict e Set comprehensions.
+- ✅ List, Dict e Set comprehensions.
 - [ ] Iteradores e Geradores.
 - [ ] Correspondência de padrões.
 - [ ] Projeto 1 - Webscraping de dados financeiros.
