@@ -29,4 +29,4 @@
 - ✅ Correspondência de padrões.
 - ✅ Projeto 1 - Webscraping de dados financeiros.
 - ✅ Projeto 2 - Manipulação de arquivos Excel.
-- [ ] Projeto 3 - Rastreador de criptomoedas utilizando bots do Telegram.
+- ✅ Projeto 3 - Rastreador de criptomoedas utilizando bots do Telegram.
